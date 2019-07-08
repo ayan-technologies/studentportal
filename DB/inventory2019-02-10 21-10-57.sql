@@ -1,0 +1,3 @@
+USE studentportal;
+
+insert into `inventory`(`InventoryID`,`InventoryEmployee`,`InventoryItemID`,`InventoryItem`,`InventoryConfig`,`InventoryCondition`,`InventoryOutDate`,`InventoryOutInspectedBy`,`InventoryOutStatus`,`InventoryOutSign`,`InventoryOutApprovedDate`,`InventoryInDate`,`InventoryInInspectedBy`,`InventoryInStatus`,`InventoryInSign`,`InventoryInApprovedDate`,`InventoryAppliedon`,`InventoryIsReturned`,`inti`) values (1,1,0,'Apple LAPTOP, Charger, Mobile Charging Cable','MAC BOOK PRO','Good','2018-01-25 00:00:00',1,'Approved','Okay. Keep it safe. When you return plz apply on portal.','2018-01-25 13:05:19','2018-01-29 03:41:57',1,'Approved','Okay','2018-01-29 03:57:58','2018-01-25 12:56:07',1,null);
